@@ -1,0 +1,11 @@
+{
+  "name": "qdb",
+  "version": "1.0.0",
+  "description": "ORM nativo para mysql e sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adilson Quifucussa",
+  "license": "MIT"
+}
